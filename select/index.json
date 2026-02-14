@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "One Last Kiss",
-  "base_artist": "宇多田ヒカル",
-  "createdAt": "2025-12-14T04:04:12.923056Z",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-14T15:16:32.334116Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,6 +147,78 @@
       "artist": "宇多田 ヒカル",
       "has_synced": false,
       "path": "select/pl_01_One_Last_Kiss_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "One Last Kiss",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_One_Last_Kiss_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "One Last Kiss",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_One_Last_Kiss_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "One Last Kiss",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_One_Last_Kiss_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "One Last Kiss",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_05_One_Last_Kiss_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "One Last Kiss",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_06_One_Last_Kiss_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "One Last Kiss",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_07_One_Last_Kiss_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "One Last Kiss",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_08_One_Last_Kiss_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "One Last Kiss",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_09_One_Last_Kiss_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "One Last Kiss",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_10_One_Last_Kiss_宇多田_ヒカル.txt"
     }
   ]
 }
