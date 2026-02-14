@@ -1,4 +1,4 @@
-# 宇多田ヒカル – One Last Kiss
+# Hikaru Utada – One Last Kiss
 
 > **歌詞登録ステータス：同期歌詞あり**
 
