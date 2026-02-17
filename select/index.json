@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "One Last Kiss",
   "base_artist": "Hikaru Utada",
-  "createdAt": "2026-02-14T15:16:32.334116Z",
+  "createdAt": "2026-02-17T10:12:00.015081Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,126 @@
       "artist": "P!nk",
       "has_synced": true,
       "path": "select/17_Blow_Me_(One_Last_Kiss)_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "One Last Time",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/18_One_Last_Time_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "One Last Time",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/19_One_Last_Time_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "One Last Time, Like Hypothermia",
+      "artist": "Royal Coda",
+      "has_synced": false,
+      "path": "select/20_One_Last_Time,_Like_Hypothermia_Royal_Coda.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "One Last Thing",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/21_One_Last_Thing_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "One Last Time",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/22_One_Last_Time_Moby.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "One Last Time",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/23_One_Last_Time_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "One Last Goodbye Song",
+      "artist": "Kenny Loggins",
+      "has_synced": false,
+      "path": "select/24_One_Last_Goodbye_Song_Kenny_Loggins.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "One Last Look",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/25_One_Last_Look_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "One Last",
+      "artist": "Avi Buffalo",
+      "has_synced": true,
+      "path": "select/26_One_Last_Avi_Buffalo.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "One Last Dance",
+      "artist": "Badly Drawn Boy",
+      "has_synced": true,
+      "path": "select/27_One_Last_Dance_Badly_Drawn_Boy.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "One Last Night",
+      "artist": "W O L F C L U B",
+      "has_synced": true,
+      "path": "select/28_One_Last_Night_W_O_L_F_C_L_U_B.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "One Last Look",
+      "artist": "Gin Wigmore",
+      "has_synced": false,
+      "path": "select/29_One_Last_Look_Gin_Wigmore.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "All in All (This One Last Wild Waltz)",
+      "artist": "Dexys Midnight Runners",
+      "has_synced": true,
+      "path": "select/30_All_in_All_(This_One_Last_Wild_Waltz)_Dexys_Midnight_Runners.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Scene Seven: II. One Last Time",
+      "artist": "Dream Theater",
+      "has_synced": false,
+      "path": "select/31_Scene_Seven__II._One_Last_Time_Dream_Theater.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Homer’s Barbershop Quartet (medley): One Last Call / Baby on Board",
+      "artist": "The Simpsons",
+      "has_synced": false,
+      "path": "select/32_Homer’s_Barbershop_Quartet_(medley)__One_Last_Call___Baby_on_Board_The_Simpsons.txt"
     },
     {
       "id": "petitlyrics_1",
